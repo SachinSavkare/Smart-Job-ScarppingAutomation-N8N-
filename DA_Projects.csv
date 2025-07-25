@@ -1,0 +1,32 @@
+Project Name,Tool,Description
+ATLIQ SALES REPORT,Excel,"Learn how to create reports that show how well customers are performing and compare market performance with sales targets.
+ Develop skills in working with data, such as organizing and analyzing it using tools like Power Query, Power Pivot, and DAX.
+ Gain the ability to understand sales data, identify trends, and track important indicators to make better decisions and allocate resources effectively.
+ Understand the importance of sales reports in today's business world, where data-driven decisions, customized offerings, and profitability are crucial for staying competitive."
+ATLIQ FINANCE REPORT,Excel,"Gain domain knowledge by creating Profit and Loss (P&L) reports, evaluating financial performance, and communicating with stakeholders.
+ Develop technical skills in understanding P&L statements, incorporating supplementary data, and optimizing report generation.
+ Understand the importance of finance reports in today's business world, including their role in informed decision-making, financial stability, and strategic planning."
+BUSINESS INSIGHTS 360,Power BI,"Expand your knowledge of the e-commerce industry and key functional areas like finance, sales, marketing, and supply chain management.
+ Gain skills in setting up environments using MURAL, building Power BI dashboards, and using Power BI for data analysis.
+ Acquire real-world experience in Power BI and develop soft skills such as stakeholder management and effective communication."
+FINANCE AND TOP N INSIGHTS,SQL,"Gain domain knowledge in finance analytics for consumer goods, focusing on key metrics.
+ Develop SQL skills including UDFs, stored procedures, and views.
+ Understand the role of automated reporting solutions in real-time financial analysis."
+SUPPLY CHAIN ANALYTICS AND MODEL OPTIMISATION,SQL,"Gain domain knowledge in supply chain analytics, forecasting errors, and error calculation.
+ Develop SQL skills including helper tables, triggers, and query optimization.
+ Understand accurate demand forecasting and gain practical experience."
+HOSPITALITY DOMAIN DATA ANALYSIS,Python,"Gain domain knowledge in hotel industry data analysis.
+ Acquire Python skills using Pandas for data cleaning, EDA, statistical analysis, and visualization.
+ Understand the value of data-driven insights for decision-making across industries."
+EXPENSE TRACKING SYSTEM,Python,"Build an application for tracking and analyzing daily expenses.
+ Learn Python basics, MySQL integration, FastAPI for backend, and Streamlit for frontend.
+ Understand analytics in financial decisions with category-wise and month-wise breakdowns."
+TELECOM PROJECT,Not Mentioned,"Acquire domain knowledge in telecom and compare KPIs for pre/post 5G launch.
+ Focus on metrics like ARPU, TAU, and TUsU.
+ Improve presentation skills through stakeholder insights communication."
+INSURANCE PROJECT,Power BI,"Gain domain knowledge of the insurance industry.
+ Acquire Power BI skills: dashboarding, data modeling, DAX, and presentation.
+ Understand data analytics' role in insurance and improve customer personalization."
+FABRIC PILOT PROJECT,Microsoft Fabric,"Migrate Power BI dashboards to Microsoft Fabric.
+ Learn ETL with Dataflow, use Lakehouse/Warehouse, and orchestrate data refresh with pipelines.
+ Understand Microsoft Fabric features and its importance for Data Analysts."
